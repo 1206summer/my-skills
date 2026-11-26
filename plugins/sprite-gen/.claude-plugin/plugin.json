@@ -1,0 +1,10 @@
+{
+  "name": "sprite-gen",
+  "description": "게임 스프라이트·이미지 생성 (ChatGPT/Codex·Grok 로그인 또는 유료 API 키 필요)",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/aldegad/sprite-gen",
+  "version": "1.0.0",
+  "author": {
+    "name": "원작자: aldegad"
+  }
+}

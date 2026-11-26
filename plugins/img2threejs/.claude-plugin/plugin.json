@@ -1,0 +1,10 @@
+{
+  "name": "img2threejs",
+  "description": "참고 이미지 → 코드로 만든 Three.js 3D 모델",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/img2threejs/img2threejs",
+  "version": "1.0.0",
+  "author": {
+    "name": "원작자: img2threejs"
+  }
+}
