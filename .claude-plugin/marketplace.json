@@ -68,6 +68,14 @@
       "skills": [
         "./skills/hallmark"
       ]
+    },
+    {
+      "name": "ponytail",
+      "description": "'게으른 시니어 개발자' 모드: 가장 단순하고 짧은 해결책 + 짧은 답변 (모든 대화에 자동으로 켜짐, 훅 포함, MIT)",
+      "source": {
+        "source": "github",
+        "repo": "DietrichGebert/ponytail"
+      }
     }
   ]
 }
