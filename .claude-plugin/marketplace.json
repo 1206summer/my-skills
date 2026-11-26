@@ -63,11 +63,7 @@
       "source": {
         "source": "github",
         "repo": "nutlope/hallmark"
-      },
-      "strict": false,
-      "skills": [
-        "./skills/hallmark"
-      ]
+      }
     },
     {
       "name": "ponytail",
