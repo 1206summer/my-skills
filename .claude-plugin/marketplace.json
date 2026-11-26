@@ -1,0 +1,52 @@
+{
+  "name": "my-skills",
+  "owner": { "name": "1206summer" },
+  "metadata": { "description": "개인 Claude Code 스킬 모음. 각 스킬은 원작자 저장소에서 바로 받아요 (복사하지 않음)." },
+  "plugins": [
+    {
+      "name": "frontend-design",
+      "description": "Anthropic 공식: 템플릿 같지 않은 화면 디자인 가이드",
+      "source": { "source": "github", "repo": "anthropics/skills" },
+      "strict": false,
+      "skills": ["./skills/frontend-design"]
+    },
+    {
+      "name": "img2threejs",
+      "description": "참고 이미지 → 코드로 만든 Three.js 3D 모델 (Apache-2.0)",
+      "source": { "source": "github", "repo": "img2threejs/img2threejs" },
+      "strict": false,
+      "skills": ["./"]
+    },
+    {
+      "name": "blender-skills",
+      "description": "블렌더 모델링·리깅·애니메이션·게임 최적화 가이드",
+      "source": { "source": "github", "repo": "EL4CTEO/blender-skills" }
+    },
+    {
+      "name": "logo-design",
+      "description": "로고·브랜드 마크 디자인 (SVG)",
+      "source": { "source": "github", "repo": "kaankiziltug/logo-design-skill" }
+    },
+    {
+      "name": "sprite-gen",
+      "description": "게임 스프라이트·이미지 생성 (ChatGPT/Codex·Grok 로그인 또는 유료 API 키 필요, Apache-2.0)",
+      "source": { "source": "github", "repo": "aldegad/sprite-gen" },
+      "strict": false,
+      "skills": ["./"]
+    },
+    {
+      "name": "taste-skill",
+      "description": "회사·랜딩 웹사이트 디자인 품질 가이드 (MIT)",
+      "source": { "source": "github", "repo": "Leonxlnx/taste-skill" },
+      "strict": false,
+      "skills": ["./skills/taste-skill"]
+    },
+    {
+      "name": "hallmark",
+      "description": "AI가 만든 티 안 나는 웹 디자인 (MIT)",
+      "source": { "source": "github", "repo": "nutlope/hallmark" },
+      "strict": false,
+      "skills": ["./skills/hallmark"]
+    }
+  ]
+}
